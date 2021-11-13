@@ -1,4 +1,4 @@
-# jwt-authentication-nodejs
+# JWT Authentication Node.js - Refresh Token
 
 Video: https://youtu.be/jHQAfPFrTPo
 
