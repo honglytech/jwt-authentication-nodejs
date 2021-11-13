@@ -1,4 +1,4 @@
-# jwt-authentication-nodejs
+# JWT Authentication Node.js
 
 Video: https://youtu.be/S4_vB1T4jWY
 
